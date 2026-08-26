@@ -31,5 +31,3 @@ understand operational performance and identify improvement opportunities.
 - **Excel** - Data analysis and reporting
 
 ---
-
-## Project Workflow
